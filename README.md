@@ -50,7 +50,7 @@ INSTANCE_ID=your-instance-id-here
 INTEGRATION_SERVER_ID=your-integration-server-id
 
 # File Watcher Configuration
-WATCH_DIRECTORY=/Users/johnreeve/IBM/ACET13/privatelink/BARfiles
+WATCH_DIRECTORY=full-path-to-directory-to-watch (i.e. /Users/johnreeve/IBM/ACET13/privatelink/BARfiles)
 FILE_EXTENSION=.bar
 
 # Optional: Debounce time in milliseconds
