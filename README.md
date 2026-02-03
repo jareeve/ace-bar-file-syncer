@@ -1,4 +1,4 @@
-# BAR File Watcher for IBM App Connect
+# ACE BAR File syncer for IBM webMethods Hydrid Integration: App Connect
 
 A Node.js application that monitors a directory for BAR (Broker Archive) file changes and automatically uploads them to IBM App Connect via the REST API.
 
@@ -21,7 +21,7 @@ A Node.js application that monitors a directory for BAR (Broker Archive) file ch
 
 1. Navigate to the project directory:
 ```bash
-cd bar-file-watcher
+cd ace-bar-file-syncer
 ```
 
 2. Install dependencies:
