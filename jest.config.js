@@ -14,4 +14,4 @@ export default {
   verbose: true
 };
 
-// Made with Bob
+

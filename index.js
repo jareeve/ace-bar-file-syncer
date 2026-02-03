@@ -262,4 +262,3 @@ if (process.env.NODE_ENV !== 'test') {
 // Export config and state for testing
 export { config, debounceTimers, cachedToken, tokenExpiry };
 
-// Made with Bob

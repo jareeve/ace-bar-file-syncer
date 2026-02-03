@@ -387,4 +387,3 @@ describe('BAR File Watcher', () => {
   });
 });
 
-// Made with Bob
